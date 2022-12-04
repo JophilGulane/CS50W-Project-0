@@ -4,6 +4,12 @@ body {
   font-family: Arial, sans-serif;
 }
 
+button {
+  border: none;
+  background-color: white;
+  margin-right: 10px;
+}
+
 input {
   font-size: 16px;
   width: 300px;
